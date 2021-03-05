@@ -1,15 +1,16 @@
-id: opecha:P007040
+id: P007040
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22116
   title: གསུང་འབུམ། ངག་དབང་བསྟན་འཛིན་འཕྲིན་ལས
-  volume:
+  author: ''
+  volumes:
     8aa5fcd1155d47baae366736df809a58:
       image_group_id: I00KG010102
       title: Volume 1 of gsung 'bum/_ngag dbang bstan 'dzin 'phrin las
       volume_number: 1
       total_pages: 1060
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གསུང་འབུམ། ངག་དབང་བསྟན་འཛིན་འཕྲིན་ལས
   author: ''
